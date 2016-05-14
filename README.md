@@ -10,6 +10,8 @@ gulp 是基于 node 实现 Web 前端自动化开发的工具，利用它能够�
 - [订阅本书](https://github.com/nimojs/gulp-book/issues/7)
 - [论坛](https://github.com/nimojs/gulp-book/issues)
 
+**因为 Node 的全局包安装都是在C盘，所有请在C盘使用 gulp 以方便熟悉 gulp **
+
 ## 目录
 
 - [安装 Node 和 gulp](chapter1.md)
@@ -93,6 +95,3 @@ gulp 还可以做很多事，例如：
 5. markdown 转换为 html
 
 [开始阅读：安装 Node 和 gulp](chapter1.md)
-
-**相关内容：**
-- [FIS 入门指南](https://github.com/nimojs/fis-book)
